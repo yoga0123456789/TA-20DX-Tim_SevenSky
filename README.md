@@ -5,11 +5,11 @@ Dosen Pembimbing  : A. Ferico Oktaviansyah, S.Kom., M.Kom.
 Anggota: 	  
 1.	Firstito Rahman Abdillah (20312002)
 Devisi  : Front end 
-Branch  : (main)
+Branch  : (firstito)
 
 2.	Yoga Pratama (20312008)
 Devisi  : Back end
-Branch  : (YogaPratama)
+Branch  : (master)
 
 3.	Risal Syahwaluddin (20312024)
 Devisi  : Back end
